@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-12-24T12:00:00+03:00">
+  <shop>
+    <name>Катя Галашева</name>
+    <company>Катя Галашева</company>
+    <url>https://katyagalasheva.ru/</url>
+    <email>info@katyagalasheva.ru</email>
+
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Психология по РПП и тревоге</category>
+      <category id="2" parentId="1">Расстройство пищевого поведения и отношения с едой</category>
+      <category id="3" parentId="1">Образ тела и принятие себя</category>
+      <category id="4" parentId="1">Тревога и внутреннее напряжение</category>
+      <category id="5" parentId="1">Самооценка и уверенность в себе</category>
+      <category id="6">Консультации психолога</category>
+    </categories>
+
+    <offers>
+
+      <offer id="course-emotions" available="true">
+        <name>Как не заедать эмоции</name>
+        <url>https://katyagalasheva.ru/kursy/kak-ne-zaedat-emocii</url>
+        <price>2490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild3965-3361-4664-b934-623561633263/photo.jpg</picture>
+        <description>
+Онлайн-курс для тех, кто заедает стресс и тревогу. 
+5 видеоуроков с практическими заданиями. Доступ навсегда.
+        </description>
+        <param name="Продолжительность">3 часа</param>
+        <param name="Формат обучения">Самостоятельно</param>
+        <param name="Тип обучения">Курс</param>
+      </offer>
+
+      <offer id="course-balance" available="true">
+        <name>Осознанный баланс</name>
+        <url>https://katyagalasheva.ru/kursy/osoznannyj_balans</url>
+        <price>2490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild3638-3233-4265-a530-366537373238/photo.jpg</picture>
+        <description>
+Практический курс по восстановлению осознанного отношения к еде и телу.
+3 урока с упражнениями. Доступ навсегда.
+        </description>
+        <param name="Продолжительность">2 часа</param>
+        <param name="Формат обучения">Самостоятельно</param>
+        <param name="Тип обучения">Курс</param>
+      </offer>
+
+      <offer id="consultation-1" available="true">
+        <name>Индивидуальная консультация психолога (1 сессия)</name>
+        <url>https://katyagalasheva.ru/sessiya_s_psihologom</url>
+        <price>6000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://static.tildacdn.com/tild6639-3036-4665-a463-373839343237/photo.jpg</picture>
+        <description>
+Онлайн-консультация психолога по РПП и тревоге. 
+60 минут, Zoom.
+        </description>
+        <param name="Продолжительность">1 час</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Тип обучения">Консультация</param>
+      </offer>
+
+      <offer id="consultation-4" available="true">
+        <name>Индивидуальная консультация психолога (4 сессии)</name>
+        <url>https://katyagalasheva.ru/sessiya_s_psihologom</url>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://static.tildacdn.com/tild6639-3036-4665-a463-373839343237/photo.jpg</picture>
+        <description>
+Пакет из 4 индивидуальных онлайн-сессий по 60 минут.
+Системная работа с РПП и тревогой.
+        </description>
+        <param name="Продолжительность">4 часа</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Тип обучения">Консультация</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
