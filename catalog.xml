@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25 12:00">
+<yml_catalog date="2025-12-29 12:00">
   <shop>
-    <name>Катя Галашева</name>
+    <n>Катя Галашева</n>
     <company>Катя Галашева</company>
     <url>https://katyagalasheva.ru</url>
     <email>info@katyagalasheva.ru</email>
-    <picture>https://static.tildacdn.com/tild6639-3036-4665-a463-373839343237/photo.jpg</picture>
+    <picture>https://static.tildacdn.com/tild3137-6134-4663-b866-363634633635/Logo.svg</picture>
     <description>Психолог, специалист по расстройствам пищевого поведения и тревоге</description>
     <currencies>
       <currency id="RUR" rate="1"/>
@@ -13,12 +13,12 @@
     <offers>
       <!-- Курс: Как не заедать эмоции -->
       <offer id="course-emotions">
-        <name>Как не заедать эмоции</name>
+        <n>Как не заедать эмоции</n>
         <url>https://katyagalasheva.ru/kursy/kak-ne-zaedat-emocii</url>
         <price>2490</price>
         <currencyId>RUR</currencyId>
         <categoryId>802</categoryId>
-        <picture>https://static.tildacdn.com/tild3965-3361-4664-b934-623561633263/photo.jpg</picture>
+        <picture>https://static.tildacdn.com/tild3830-3962-4730-b364-633033323365/emocii.png</picture>
         <param name="Продолжительность" unit="час">3</param>
         <param name="План" order="1" unit="Модуль 1" hours="1">Что такое эмоциональное переедание: причины и механизмы возникновения</param>
         <param name="План" order="2" unit="Модуль 2" hours="1">Распознавание триггеров: учимся замечать сигналы тела и отличать голод от эмоций</param>
@@ -33,16 +33,16 @@
 
       <!-- Курс: Осознанный баланс -->
       <offer id="course-balance">
-        <name>Осознанный баланс</name>
+        <n>Осознанный баланс</n>
         <url>https://katyagalasheva.ru/kursy/osoznannyj_balans</url>
         <price>2490</price>
         <currencyId>RUR</currencyId>
         <categoryId>802</categoryId>
-        <picture>https://static.tildacdn.com/tild3638-3233-4265-a530-366537373238/photo.jpg</picture>
+        <picture>https://static.tildacdn.com/tild3862-3263-4466-b761-666336366366/Katy_1.jpg</picture>
         <param name="Продолжительность" unit="час">2</param>
         <param name="План" order="1" unit="Урок 1" hours="1">Основы осознанного питания: принципы и философия интуитивного подхода к еде</param>
-        <param name="План" order="2" unit="Урок 2" hours="0.5">Работа с телом: техники телесного осознавания и принятия себя</param>
-        <param name="План" order="3" unit="Урок 3" hours="0.5">Интеграция в жизнь: как внедрить осознанные практики в повседневную рутину</param>
+        <param name="План" order="2" unit="Урок 2" hours="1">Работа с телом: техники телесного осознавания и принятия себя</param>
+        <param name="План" order="3" unit="Урок 3" hours="1">Интеграция в жизнь: как внедрить осознанные практики в повседневную рутину</param>
         <param name="Формат обучения">Самостоятельно</param>
         <param name="Тип обучения">Курс</param>
         <param name="Сложность">Для новичков</param>
@@ -53,12 +53,12 @@
 
       <!-- Индивидуальная сессия с психологом -->
       <offer id="session">
-        <name>Индивидуальная сессия с психологом</name>
+        <n>Индивидуальная сессия с психологом</n>
         <url>https://katyagalasheva.ru/sessiya_s_psihologom</url>
         <price>6000</price>
         <currencyId>RUR</currencyId>
         <categoryId>802</categoryId>
-        <picture>https://static.tildacdn.com/tild6639-3036-4665-a463-373839343237/photo.jpg</picture>
+        <picture>https://static.tildacdn.com/tild3862-3263-4466-b761-666336366366/Katy_1.jpg</picture>
         <param name="Продолжительность" unit="час">1</param>
         <param name="План" order="1" unit="Этап 1" hours="20">Знакомство и диагностика: сбор информации о вашем запросе</param>
         <param name="План" order="2" unit="Этап 2" hours="30">Работа с запросом: анализ ситуации и выявление ключевых точек</param>
