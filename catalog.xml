@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-29 12:00">
+<yml_catalog date="2025-12-30 12:00">
   <shop>
-    <n>Катя Галашева</n>
+    <name>Катя Галашева</name>
     <company>Катя Галашева</company>
     <url>https://katyagalasheva.ru</url>
     <email>info@katyagalasheva.ru</email>
@@ -11,9 +11,8 @@
       <currency id="RUR" rate="1"/>
     </currencies>
     <offers>
-      <!-- Курс: Как не заедать эмоции -->
       <offer id="course-emotions">
-        <n>Как не заедать эмоции</n>
+        <name>Как не заедать эмоции</name>
         <url>https://katyagalasheva.ru/kursy/kak-ne-zaedat-emocii</url>
         <price>2490</price>
         <currencyId>RUR</currencyId>
@@ -30,10 +29,8 @@
         <param name="Есть домашние работы">true</param>
         <description>Онлайн-курс для тех, кто заедает стресс и тревогу. 5 видеоуроков с практическими заданиями помогут вам разобраться в причинах эмоционального переедания и научиться справляться с ним. Вы получите инструменты для работы с тревогой и стрессом без еды. Доступ к материалам навсегда.</description>
       </offer>
-
-      <!-- Курс: Осознанный баланс -->
       <offer id="course-balance">
-        <n>Осознанный баланс</n>
+        <name>Осознанный баланс</name>
         <url>https://katyagalasheva.ru/kursy/osoznannyj_balans</url>
         <price>2490</price>
         <currencyId>RUR</currencyId>
@@ -50,10 +47,8 @@
         <param name="Есть домашние работы">true</param>
         <description>Практический курс по восстановлению осознанного отношения к еде и телу. 3 урока с упражнениями помогут вам наладить гармоничные отношения с питанием, перестать зацикливаться на еде и начать слушать своё тело. Доступ к материалам навсегда.</description>
       </offer>
-
-      <!-- Индивидуальная сессия с психологом -->
       <offer id="session">
-        <n>Индивидуальная сессия с психологом</n>
+        <name>Индивидуальная сессия с психологом</name>
         <url>https://katyagalasheva.ru/sessiya_s_psihologom</url>
         <price>6000</price>
         <currencyId>RUR</currencyId>
